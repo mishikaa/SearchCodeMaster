@@ -2,3 +2,5 @@
 node_modules/
 .env
 Problems/
+package.json
+package-lock.json
